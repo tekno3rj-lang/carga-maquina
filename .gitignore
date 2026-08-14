@@ -1,0 +1,13 @@
+# Local Netlify folder
+.netlify
+node_modules
+out
+.env.local
+.env.*.local
+.next
+
+# Logs e artefatos de build
+netlify-dev.log
+netlify-dev.err.log
+tsconfig.tsbuildinfo
+.playwright-mcp
